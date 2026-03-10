@@ -33,9 +33,9 @@ jobs:
         run: npm install
 
       - name: Build
-        run: npx vite build --base /WAKASA/
+        run: npx vite build --base /
         env:
-          BASE_PATH: /WAKASA/
+          BASE_PATH: /
 
       - name: Setup Pages
         uses: actions/configure-pages@v5
