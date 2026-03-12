@@ -2,7 +2,7 @@ import Header from '../../components/feature/Header';
 import Footer from '../../components/feature/Footer';
 import HeroSection from './components/HeroSection';
 import AboutSection from './components/AboutSection';
-import ServicesPreview from './components/ServicesPreview';
+import ArticlesPreview from './components/ServicesPreview';
 import ContactSection from './components/ContactSection';
 
 const HomePage = () => {
@@ -11,7 +11,7 @@ const HomePage = () => {
       <Header />
       <HeroSection />
       <AboutSection />
-      <ServicesPreview />
+      <ArticlesPreview />
       <ContactSection />
       <Footer />
     </div>
