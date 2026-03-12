@@ -40,13 +40,13 @@ export default function Footer() {
               </li>
               <li className="flex items-start gap-2">
                 <i className="ri-phone-line mt-0.5"></i>
-                <a href="tel:+254722123456" className="hover:text-white transition-colors">
-                  +254 722 123 456
+                <a href="tel:+254742117047" className="hover:text-white transition-colors">
+                  0742117047
                 </a>
               </li>
               <li className="flex items-start gap-2">
                 <i className="ri-whatsapp-line mt-0.5"></i>
-                <a href="https://wa.me/254722123456" target="_blank" rel="noopener noreferrer" className="hover:text-white transition-colors">
+                <a href="https://wa.me/254742117047" target="_blank" rel="noopener noreferrer" className="hover:text-white transition-colors">
                   WhatsApp Us
                 </a>
               </li>
@@ -57,11 +57,11 @@ export default function Footer() {
           <div>
             <h3 className="text-lg font-semibold mb-4">Founder</h3>
             <p className="text-teal-50 text-sm leading-relaxed">
-              <strong className="text-white">Kezzy Odhiambo</strong>
+              <strong className="text-white">Kezzy Ray Oluoch</strong>
               <br />
               Certified Mediator & Lawyer
               <br />
-              Dedicated to providing expert mediation and legal solutions.
+              Mediating for Tomorrow.
             </p>
           </div>
         </div>
